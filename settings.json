@@ -1,0 +1,25 @@
+{
+    "workbench.colorTheme": "Material Theme Palenight",
+    "window.zoomLevel": 3,
+    "editor.fontSize": 18,
+    "editor.renderWhitespace": "all", 
+    "terminal.integrated.fontSize": 18,
+    "workbench.colorCustomizations": {},
+    "materialTheme.cache.workbench.settings": {
+        "accentPrevious": "Cyan",
+        "themeColours": "Default"
+    },
+    "files.exclude": {
+        "**/.git": true,
+        "**/.gitignore": true,
+        "**/.c9": true,
+        "**/.config": true,
+        "**/.nvm": true,
+        ".bash_profile": true,
+        ".bash_history": true,
+        "**/.DS_Store": true
+    },
+    "sublimeTextKeymap.promptV3Features": true,
+    "editor.minimap.enabled": false,
+    "workbench.iconTheme": "eq-material-theme-icons"
+}
